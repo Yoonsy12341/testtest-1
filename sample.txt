@@ -1,3 +1,10 @@
 간단한 git 명 령 어
 add: 변 경 된 파 일 stage에 추 가
 commit: stage에 추 가 된 파 일 커 밋
+asdfsadfasdf
+
+sdaf
+
+saf
+sad
+f

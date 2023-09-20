@@ -2,3 +2,10 @@
 add: 변 경 된 파 일 stage에 추 가
 commit: stage에 추 가 된 파 일 커 밋
 pull: 원격 저장소 내용 가져오기
+asdfsadfasdf
+
+sdaf
+
+saf
+sad
+f
